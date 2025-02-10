@@ -1,0 +1,43 @@
+body {
+    background-color: beige;
+    max-width: 900px;
+    margin: auto;
+}
+
+header {
+    font-size: 20px;
+    background-color: red;
+    text-align: center;
+}
+
+a {
+    color: pink
+}
+
+p, ul, ol {
+    color: blue;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    color: brown;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
+
+h2 + ul {
+    background-color:white;
+}
